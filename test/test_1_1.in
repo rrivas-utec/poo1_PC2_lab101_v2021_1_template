@@ -1,0 +1,20 @@
+#input
+    10
+    1 2 10 7 6 5 11 8 4 14
+#output
+    44 24 25
+#endtest
+
+#input
+    6
+    1 2 10 7 6 5
+#output
+    18 13 14
+#endtest
+
+#input
+    12
+    1 2 10 7 6 5 11 31 27 2 1 9
+#output
+    20 92 58
+#endtest
